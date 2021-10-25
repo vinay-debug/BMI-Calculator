@@ -1,4 +1,4 @@
-# first2
+# Body mass index calculator
 
 A new Flutter project.
 
